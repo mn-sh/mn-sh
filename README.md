@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mn-sh
 - 👀 I’m interested in blockchains
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning **everything**
 - 📫 reach me @mnsh_ on twitter
 
 <!---
